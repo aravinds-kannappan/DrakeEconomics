@@ -1,4 +1,4 @@
-# 🎤 DRAKEonomics
+# 🎤 DRAKEconomics
 
 **Using Rap Lyrics as Proxy Indicators of Economic Sentiment**
 
