@@ -1,4 +1,4 @@
-# 🎤 DRAKEconomics
+# DRAKEconomics
 
 **Using Rap Lyrics as Proxy Indicators of Economic Sentiment**
 
@@ -6,7 +6,7 @@ A Python application that analyzes sentiment in rap lyrics and correlates it wit
 
 ---
 
-## 🧠 Overview
+## Overview
 
 DRAKEonomics is a novel approach to economic sentiment analysis that leverages the cultural zeitgeist expressed in rap music.
 
